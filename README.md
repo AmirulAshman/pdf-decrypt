@@ -1,2 +1,2 @@
 # pdf-decrypt
-PDF Remover App
+PDF Password Remover App
